@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cursed Egg](https://i.redd.it/nlpj0wgoqhf11.jpg)
